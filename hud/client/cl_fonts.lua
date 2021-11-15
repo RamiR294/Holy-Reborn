@@ -1,4 +1,4 @@
-surface.CreateFont("nick" {
+surface.CreateFont("nick" { 
 	font = "AmazObitaemOstrovFine",
 	extended = true,
 	shadow = false,
