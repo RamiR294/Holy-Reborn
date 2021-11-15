@@ -3,7 +3,7 @@ surface.CreateFont("nick" {
 	extended = true,
 	shadow = false,
 	size = 34,
-	wight = 500,
+	wight = 500
 } )
 
 surface.CreateFont("nomer" {
@@ -11,7 +11,7 @@ surface.CreateFont("nomer" {
 	extended = true,
 	shadow = true,
 	size = 35,
-	wight = 500,
+	wight = 500
 } )
 
 surface.CreateFont("rabota" {
@@ -19,5 +19,5 @@ surface.CreateFont("rabota" {
 	extended = true,
 	shadow = false,
 	size = 26,
-	wight = 500,
+	wight = 500
 } )
