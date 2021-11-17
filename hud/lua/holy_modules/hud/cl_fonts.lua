@@ -1,4 +1,4 @@
-surface.CreateFont("nick" { 
+surface.CreateFont("nick", { 
 	font = "AmazObitaemOstrovFine",
 	extended = true,
 	shadow = false,
@@ -6,7 +6,7 @@ surface.CreateFont("nick" {
 	wight = 500
 } )
 
-surface.CreateFont("nomer" {
+surface.CreateFont("nomer", {
 	font = "AmazObitaemOstrovFine",
 	extended = true,
 	shadow = true,
@@ -14,7 +14,7 @@ surface.CreateFont("nomer" {
 	wight = 500
 } )
 
-surface.CreateFont("rabota" {
+surface.CreateFont("rabota", {
 	font = "AmazObitaemOstrovFine",
 	extended = true,
 	shadow = false,
